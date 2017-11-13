@@ -5,7 +5,7 @@ Forked from https://github.com/sujitpal/mlia-examples/blob/master/src/salary_pre
 * SOURCE:
   * http://sujitpal.blogspot.ca/2013/03/implementing-rake-algorithm-with-nltk.html
   * https://github.com/sujitpal/mlia-examples/blob/master/src/salary_pred/rake_nltk.py
-  * [Adapted by author Sujit Pal from: github.com/aneesha/RAKE/rake.py]
+  * [Adapted by author Sujit Pal from: https://github.com/aneesha/RAKE | https://github.com/aneesha/RAKE/blob/master/rake.py]
 
 * Additionally modified by [Victoria Stuart](https://github.com/victoriastuart) on Nov 13, 2017:
   * Py2 --> Py3
